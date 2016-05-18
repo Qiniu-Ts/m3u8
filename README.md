@@ -2,6 +2,14 @@
 
 # rdm3u8
  remove domain in m3u8 and upload to bucket
+ 
+## 下载
+[linux_amd64](http://devtools.qiniu.com/linux_amd64/rdm3u8)
+
+[darwin_amd64](http://devtools.qiniu.com/darwin_amd64/rdm3u8)
+
+[win_386](http://devtools.qiniu.com/windows_386/rdm3u8.exe)
+
 
 ## 用法：
 ```
